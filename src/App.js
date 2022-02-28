@@ -68,7 +68,7 @@ function Footer() {
   return (
     <div className="row bg-secondary text-light p-5 ">
       <div className="col d-flex justify-content-center">Contact us</div>
-      <div className="col d-flex justify-content-center">About us</div>
+      <div className="col d-flex justify-content-center">About me</div>
       <div className="col d-flex justify-content-center">Help</div>
     </div>
   );
